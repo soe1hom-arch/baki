@@ -1,0 +1,4 @@
+/baki
+*.exe
+*.log
+.baki/
